@@ -1,4 +1,4 @@
-Gypsy
+GyPSy
 =====
 
 GPS  movement tracking website
